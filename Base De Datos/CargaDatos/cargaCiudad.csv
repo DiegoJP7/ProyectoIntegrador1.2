@@ -1,0 +1,599 @@
+ciudad;Parroquia;id_canton;id_prov
+10150;Cuenca;101;1
+10151;Ba\\361os;101;1
+10152;Cumbe;101;1
+10156;Llacao;101;1
+10158;Nulti;101;1
+10160;Paccha;101;1
+10161;Quingeo;101;1
+10162;Ricaurte;101;1
+10166;Sidcay;101;1
+10167;Sinincay;101;1
+10170;Valle;101;1
+10171;Victoria del Portete;101;1
+10250;Giron;102;1
+10350;Gualaceo;103;1
+10354;Mariano Moreno;103;1
+10356;Remigio Crespo Toral;103;1
+10357;San Juan;103;1
+10358;Zhidmad;103;1
+10450;Nabon;104;1
+10550;Paute;105;1
+10552;Bulan;105;1
+10562;Dug-Dug;105;1
+10652;San Rafael de Sharug;106;1
+10850;Santa Isabel;108;1
+10950;Sigsig;109;1
+10956;San Jose de Raranga;109;1
+11250;El Pan;112;1
+11253;San Vicente;112;1
+11350;Sevilla de Oro;113;1
+11450;Guachapala;114;1
+11550;Camilo Ponce Enriquez;115;1
+11551;El Carmen De Pijili;115;1
+20150;Guaranda;201;2
+20151;Facundo Vela;201;2
+20155;Salinas;201;2
+20159;Simiatug;201;2
+20160;San Luis De Pambil;201;2
+20250;Chillanes;202;2
+20251;San Jose Del Tambo;202;2
+20350;San Jose De Chimbo;203;2
+20351;Asuncion (Asancoto);203;2
+20353;Magdalena (Chapacoto);203;2
+20354;San Sebastian;203;2
+20355;Telimbela;203;2
+20450;Echeandia;204;2
+20550;San Miguel;205;2
+20551;Balsapamba;205;2
+20554;San Pablo;205;2
+20555;Santiago;205;2
+20650;Caluma;206;2
+20750;Las Naves;207;2
+30150;Azogues;301;3
+30151;Cojitambo;301;3
+30153;Guapan;301;3
+30154;Javier Loyola;301;3
+30155;Luis Cordero;301;3
+30156;Pindilig;301;3
+30157;Rivera;301;3
+30158;San Miguel;301;3
+30160;Taday;301;3
+30250;Biblian;302;3
+30254;Jerusalen;302;3
+30350;Ca\\361ar;303;3
+30355;Honorato Vasquez;303;3
+30356;Ingapirca;303;3
+30362;Ventura;303;3
+30363;Ducur;303;3
+30450;La Troncal;304;3
+30452;Pancho Negro;304;3
+30550;El Tambo;305;3
+30650;Deleg;306;3
+30651;Solano;306;3
+40150;Tulcan;401;4
+40153;Julio Andrade (Orejuela);401;4
+40158;Urbina (Taya);401;4
+40159;El Chical;401;4
+40161;Santa Martha De Cuba;401;4
+40250;Bolivar;402;4
+40251;Garcia Moreno;402;4
+40252;Los Andes;402;4
+40254;San Vicente De Pusir;402;4
+40255;San Rafael;402;4
+40350;El Angel;403;4
+40352;La Libertad (Alizo);403;4
+40353;San Isidro;403;4
+40450;Mira (Chontahuasi);404;4
+40451;Concepcion;404;4
+40453;Juan Montalvo;404;4
+40550;San Gabriel;405;4
+40551;Cristobal Colon;405;4
+40553;Fernandez Salvador;405;4
+40554;La Paz;405;4
+40650;Huaca;406;4
+50150;Latacunga;501;5
+50151;Alaques (Alaquez);501;5
+50152;Belisario Quevedo;501;5
+50153;Guaitacama (Guaytacama);501;5
+50156;Mulalo;501;5
+50157;11 De Noviembre (Ilinchi;501;5
+50158;Poalo;501;5
+50159;San Juan De Pastocalle;501;5
+50161;Tanicuchi;501;5
+50250;La Mana;502;5
+50450;Pujili;504;5
+50453;Guangaje;504;5
+50456;Pilalo;504;5
+50458;Zumbahua;504;5
+50550;San Miguel;505;5
+50552;Cusubamba;505;5
+50554;Mulliquindil (Santa Ana);505;5
+50650;Saquisili;506;5
+50651;Canchagua;506;5
+50653;Cochapamba;506;5
+50750;Sigchos;507;5
+50751;Chugchilan;507;5
+50752;Isinlivi;507;5
+60150;Riobamba;601;6
+60152;Calpi;601;6
+60156;Licto;601;6
+60158;Punin;601;6
+60159;Quimiag;601;6
+60160;San Juan;601;6
+60161;San Luis;601;6
+60250;Alausi;602;6
+60251;Achupallas;602;6
+60260;Tixan;602;6
+60350;Villa La Union;603;6
+60352;Columbe;603;6
+60354;Santiago De Quito;603;6
+60450;Chambo;604;6
+60550;Chunchi;605;6
+60553;Gonzol;605;6
+60650;Guamote;606;6
+60750;Guano;607;6
+60754;San Andres;607;6
+60850;Pallatanga;608;6
+60950;Penipe;609;6
+61050;Cumanda;610;6
+70150;Machala;701;7
+70152;El Retiro;701;7
+70250;Arenillas;702;7
+70352;Cordoncillo;703;7
+70450;Balsas;704;7
+70451;Bellamaria;704;7
+70650;El Guabo;706;7
+70651;Barbones (Sucre);706;7
+70652;La Iberia;706;7
+70654;Rio Bonito;706;7
+70750;Huaquillas;707;7
+70850;Marcabeli;708;7
+70950;Pasaje;709;7
+70951;Buenavista;709;7
+70952;Casacay;709;7
+70954;Progreso;709;7
+71050;Pi\\361as;710;7
+71052;La Bocana;710;7
+71055;San Roque;710;7
+71056;Saracay;710;7
+71150;Portovelo;711;7
+71153;Salati;711;7
+71250;Santa Rosa;712;7
+71251;Bellavista;712;7
+71252;Jambeli;712;7
+71253;La Avanzada;712;7
+71254;San Antonio;712;7
+71255;Torata;712;7
+71350;Zaruma;713;7
+71352;Arcapamba;713;7
+71353;Guanazan;713;7
+71355;Huertas;713;7
+71450;La Victoria;714;7
+80150;Esmeraldas;801;8
+80154;Chinca;801;8
+80159;Majua;801;8
+80163;San Mateo;801;8
+80165;Tabiazo;801;8
+80166;Tachina;801;8
+80168;Vuelta Larga;801;8
+80250;Valdez (Limones);802;8
+80252;Atahualpa;802;8
+80253;Borbon;802;8
+80254;La Tola;802;8
+80256;Maldonado;802;8
+80257;Pampanal De Bolivar;802;8
+80259;Santo Domingo De Onzole;802;8
+80260;Selva Alegre;802;8
+80261;Telembi;802;8
+80262;Colon Eloy Del Maria;802;8
+80263;San Jose De Cayapas;802;8
+80264;Timbire;802;8
+80350;Muisne;803;8
+80353;Galera;803;8
+80356;San Francisco;803;8
+80357;San Gregorio;803;8
+80450;Rosa Zarate (Quininde);804;8
+80451;Cube;804;8
+80452;Chura (Chancama);804;8
+80453;Malimpia;804;8
+80454;Viche;804;8
+80455;La Union;804;8
+80550;San Lorenzo;805;8
+80551;Alto Tambo;805;8
+80554;Carondelet;805;8
+80562;Urbina;805;8
+80650;Atacames;806;8
+80651;La Union;806;8
+80652;Sua;806;8
+80653;Tonchigue;806;8
+80654;Tonsupa;806;8
+80750;Rioverde;807;8
+80751;Chontaduro;807;8
+80752;Chumunde;807;8
+80753;Lagarto;807;8
+80754;Montalvo;807;8
+80755;Rocafuerte;807;8
+90150;Guayaquil;901;9
+90153;Morro;901;9
+90156;Posorja;901;9
+90157;Puna;901;9
+90158;Tenguel;901;9
+90250;Alfredo Baquerizo Moreno;902;9
+90450;Balzar;904;9
+90550;Colimes;905;9
+90551;San Jacinto;905;9
+90650;Daule;906;9
+90652;Juan Bautista Aguirre;906;9
+90654;Limonal;906;9
+90656;Los Lojas;906;9
+90750;Eloy Alfaro (Duran);907;9
+90850;Velasco Ibarra;908;9
+90950;El Triunfo;909;9
+91050;Milagro;910;9
+91053;Mariscal Sucre (Huaques);910;9
+91150;Naranjal;911;9
+91153;Santa Rosa De Flandes;911;9
+91250;Naranjito;912;9
+91450;Pedro Carbo;914;9
+91650;Samborondon;916;9
+91651;Tarifa;916;9
+91850;Santa Lucia;918;9
+91950;El Salitre (Las Ramas);919;9
+92050;Yaguachi Nuevo;920;9
+92053;Gral;920;9
+92056;Virgen De Fatima;920;9
+92150;General Villamil;921;9
+92251;Crnel;922;9
+92450;Lomas De Sargentillo;924;9
+92550;Narcisa De Jesus;925;9
+100150;Ibarra;1001;10
+100151;Ambuqui;1001;10
+100152;Angochagua;1001;10
+100153;Carolina;1001;10
+100154;La Esperanza;1001;10
+100155;Lita;1001;10
+100156;Salinas;1001;10
+100157;San Antonio;1001;10
+100250;Atuntaqui;1002;10
+100251;Imbaya;1002;10
+100253;San Jose De Chaltura;1002;10
+100254;San Roque;1002;10
+100300;;1003;10
+100350;Cotacachi;1003;10
+100352;Garcia Moreno;1003;10
+100353;Imantag;1003;10
+100354;Pe\\361aherrera;1003;10
+100355;Plaza Gutierrez;1003;10
+100356;Quiroga;1003;10
+100357;6 De Julio De Cuellaje;1003;10
+100450;Otavalo;1004;10
+100451;Dr;1004;10
+100452;Eugenio Espejo (Calpaqui);1004;10
+100453;Gonzalez Suarez;1004;10
+100455;San Jose De Quichinche;1004;10
+100456;San Juan De Iluman;1004;10
+100457;San Pablo;1004;10
+100458;San Rafael;1004;10
+100550;Pimampiro;1005;10
+100552;Mariano Acosta;1005;10
+100553;San Francisco De Sigsipa;1005;10
+100650;Urcuqui;1006;10
+100651;Cahuasqui;1006;10
+100652;La Merced De Buenos Aires;1006;10
+100653;Pablo Arenas;1006;10
+100654;San Blas;1006;10
+110150;Loja;1101;11
+110155;Jimbilla;1101;11
+110156;Malacatos (Valladolid);1101;11
+110160;Taquil (Miguel Riofrio);1101;11
+110161;Vilcabamba (Victoria);1101;11
+110162;Yangana (Arsenio Castillo);1101;11
+110250;Cariamanga;1102;11
+110350;Catamayo (La Toma);1103;11
+110351;El Tambo;1103;11
+110353;San Pedro De La Bendita;1103;11
+110450;Celica;1104;11
+110451;Cruzpamba;1104;11
+110550;Chaguarpamba;1105;11
+110551;Buenavista;1105;11
+110553;Santa Rufina;1105;11
+110650;Amaluza;1106;11
+110651;Bellavista;1106;11
+110653;Santa Teresita;1106;11
+110750;Gonzanama;1107;11
+110753;Nambacola;1107;11
+110754;Purunuma (Eguiguren);1107;11
+110756;Sacapalca;1107;11
+110850;Macara;1108;11
+110950;Catacocha;1109;11
+110952;Guachanama;1109;11
+110956;Orianga;1109;11
+110959;Yamana;1109;11
+111050;Alamor;1110;11
+111051;Ciano;1110;11
+111052;El Arenal;1110;11
+111054;Mercadillo;1110;11
+111150;Saraguro;1111;11
+111154;Manu;1111;11
+111155;San Antonio De Qumbe;1111;11
+111250;Sozoranga;1112;11
+111350;Zapotillo;1113;11
+111351;Cazaderos;1113;11
+111353;Limones;1113;11
+111355;Bolaspamba;1113;11
+111450;Pindal;1114;11
+111650;Olmedo;1116;11
+111651;La Tingue;1116;11
+120150;Babahoyo;1201;12
+120152;Caracol;1201;12
+120153;Febres Cordero (Las Juntas);1201;12
+120154;Pimocha;1201;12
+120250;Baba;1202;12
+120251;Guare;1202;12
+120252;Isla De Bejucal;1202;12
+120350;Montalvo;1203;12
+120450;Puebloviejo;1204;12
+120452;San Juan;1204;12
+120550;Quevedo;1205;12
+120651;Ricaurte;1206;12
+120750;Ventanas;1207;12
+120752;Zapotal;1207;12
+120850;Vinces;1208;12
+120950;Palenque;1209;12
+121050;San Jacinto De Buena Fe;1210;12
+121051;Patricia Pilar;1210;12
+121150;Valencia;1211;12
+121250;Mocache;1212;12
+121350;Quinsaloma;1213;12
+130150;Portoviejo;1301;13
+130151;Abdon Calderon;1301;13
+130153;Crucita;1301;13
+130156;San Placido;1301;13
+130157;Chirijos;1301;13
+130250;Calceta;1302;13
+130352;Canuto;1303;13
+130356;Ricaurte;1303;13
+130357;San Antonio;1303;13
+130400;;1304;13
+130450;El Carmen;1304;13
+130550;Flavio Alfaro;1305;13
+130650;Jipijapa;1306;13
+130652;El Anegado;1306;13
+130654;La Union;1306;13
+130657;Pedro Pablo Gomez;1306;13
+130750;Junin;1307;13
+130850;Manta;1308;13
+130851;San Lorenzo;1308;13
+130852;Santa Marianita;1308;13
+130950;Montecristi;1309;13
+130952;La Pila;1309;13
+131053;Guale;1310;13
+131150;Pichincha;1311;13
+131250;Rocafuerte;1312;13
+131350;Santa Ana De Vuelta Larga;1313;13
+131351;Ayacucho;1313;13
+131450;Bahia De Caraquez;1314;13
+131453;Charapoto;1314;13
+131550;Tosagua;1315;13
+131552;Angel Pedro Giler;1315;13
+131650;Sucre;1316;13
+131652;Noboa;1316;13
+131750;Pedernales;1317;13
+131752;10 De Agosto;1317;13
+131950;Puerto Lopez;1319;13
+140150;Macas;1401;14
+140153;General Proa\\361o;1401;14
+140157;Sevilla Don Bosco;1401;14
+140158;Sinai;1401;14
+140250;Gualaquiza;1402;14
+140253;Bomboiza;1402;14
+140350;General Leonidas Plaza G;1403;14
+140351;Indanza;1403;14
+140450;Palora (Metzera);1404;14
+140454;Sangay;1404;14
+140455;16 De Agosto;1404;14
+140550;Santiago De Mendez;1405;14
+140553;Patuca;1405;14
+140557;San Francisco De Chinimb;1405;14
+140650;Sucua;1406;14
+140651;Asuncion;1406;14
+140652;Huambi;1406;14
+140751;Chiguaza;1407;14
+140850;San Juan Bosco;1408;14
+140950;Taisha;1409;14
+140951;Huasaga;1409;14
+140953;Tutinentza;1409;14
+141050;Logro\\361o;1410;14
+141150;Pablo Vi;1411;14
+141250;Tiwintza;1412;14
+150150;Tena;1501;15
+150151;Ahuano;1501;15
+150153;Chontapunta;1501;15
+150154;Pano;1501;15
+150155;Puerto Misahualli;1501;15
+150156;Puerto Napo;1501;15
+150350;Archidona;1503;15
+150352;Cotundo;1503;15
+150354;San Pablo De Ushpayacu;1503;15
+150450;El Chaco;1504;15
+150453;Oyacachi;1504;15
+150454;Santa Rosa;1504;15
+150750;Baeza;1507;15
+150754;San Francisco De Borja;1507;15
+150950;Carlos Julio Arosemena Tola;1509;15
+160150;Puyo;1601;16
+160154;Diez De Agosto;1601;16
+160155;Fatima;1601;16
+160156;Montalvo (Andoas);1601;16
+160161;Sarayacu;1601;16
+160162;Sim\\363n Bolivar;1601;16
+160163;Tarqui;1601;16
+160165;Veracruz (Indillama);1601;16
+160250;Mera;1602;16
+160252;Shell;1602;16
+160350;Santa Clara;1603;16
+160450;Arajuno;1604;16
+160451;Curaray;1604;16
+170150;Quito;1701;17
+170151;Alangasi;1701;17
+170152;Amagua\\361a;1701;17
+170153;Atahualpa (Habaspamba);1701;17
+170154;Calacali;1701;17
+170155;Calderon (Carapungo);1701;17
+170156;Conocoto;1701;17
+170157;Cumbaya;1701;17
+170158;Chavezpamba;1701;17
+170159;Checa (Chilpa);1701;17
+170160;El Quinche;1701;17
+170161;Gualea;1701;17
+170162;Guangopolo;1701;17
+170163;Guayllabamba;1701;17
+170164;La Merced;1701;17
+170165;Llano Chico;1701;17
+170170;Nayon;1701;17
+170171;Nono;1701;17
+170172;Pacto;1701;17
+170175;Pifo;1701;17
+170176;Pintag;1701;17
+170177;Pomasqui;1701;17
+170178;Puellaro;1701;17
+170179;Puembo;1701;17
+170180;San Antonio;1701;17
+170181;San Jose De Minas;1701;17
+170183;Tababela;1701;17
+170184;Tumbaco;1701;17
+170185;Yaruqui;1701;17
+170250;Cayambe;1702;17
+170252;Cangahua;1702;17
+170253;Olmedo (Pesillo);1702;17
+170254;Oton;1702;17
+170255;Santa Rosa De Cuzubamba;1702;17
+170350;Machachi;1703;17
+170352;Aloasi;1703;17
+170353;Cutuglahua;1703;17
+170355;Manuel Cornejo Astorga;1703;17
+170356;Tambillo;1703;17
+170452;Malchingui;1704;17
+170453;Tocachi;1704;17
+170550;Sangolqui;1705;17
+170551;Cotogchoa;1705;17
+170750;San Miguel De Los Bancos;1707;17
+170850;Pedro Vicente Maldonado;1708;17
+170950;Puerto Quito;1709;17
+180150;Ambato;1801;18
+180152;Atahualpa (Chisalata);1801;18
+180153;Augusto N;1801;18
+180155;Huachi Grande;1801;18
+180156;Izamba;1801;18
+180161;Pilaguin (Pilahuin);1801;18
+180162;Quisapincha (Quizapincha);1801;18
+180163;San Bartolome De Pinllog;1801;18
+180165;Santa Rosa;1801;18
+180166;Totoras;1801;18
+180168;Unamuncho;1801;18
+180250;Ba\\361os;1802;18
+180254;Ulba;1802;18
+180350;Cevallos;1803;18
+180451;Pinguili;1804;18
+180550;Patate;1805;18
+180551;El Triunfo;1805;18
+180650;Quero;1806;18
+180651;Rumipamba;1806;18
+180750;Pelileo;1807;18
+180751;Benitez (Pachanlica);1807;18
+180752;Bolivar;1807;18
+180754;Chiquicha;1807;18
+180755;El Rosario (Rumichaca);1807;18
+180756;Garcia Moreno (Chumaqui);1807;18
+180757;Guambalo (Huambalo);1807;18
+180850;Pillaro;1808;18
+180857;San Miguelito;1808;18
+180950;Tisaleo;1809;18
+180951;Quinchicoto;1809;18
+190150;Zamora;1901;19
+190151;Cumbaratza;1901;19
+190152;Guadalupe;1901;19
+190155;Sabanilla;1901;19
+190156;Timbara;1901;19
+190158;San Carlos De Las Minas;1901;19
+190250;Zumba;1902;19
+190251;Chito;1902;19
+190350;Guayzimi;1903;19
+190351;Zurmi;1903;19
+190352;Nuevo Paraiso;1903;19
+190450;28 De Mayo;1904;19
+190550;Yanzatza;1905;19
+190551;Chica\\361a;1905;19
+190650;El Pangui;1906;19
+190651;El Guismi;1906;19
+190750;Zumbi;1907;19
+190850;Palanda;1908;19
+190851;El Porvenir Del Carmen;1908;19
+190852;San Francisco De Vergel;1908;19
+190853;Valladolid;1908;19
+190952;Nuevo Quito;1909;19
+200150;Puerto Baquerizo Moreno;2001;20
+200151;El Progreso;2001;20
+200250;Puerto Villamil;2002;20
+200350;Puerto Ayora;2003;20
+200351;Bellavista;2003;20
+200352;Santa Rosa;2003;20
+210150;Nueva Loja;2101;21
+210152;Dureno;2101;21
+210153;General Farfan;2101;21
+210155;El Eno;2101;21
+210156;Pacayacu;2101;21
+210157;Jambeli;2101;21
+210158;Sta;2101;21
+210250;Lumbaqui;2102;21
+210252;Gonzalo Pizarro;2102;21
+210351;Palma Roja;2103;21
+210354;Santa Elena;2103;21
+210450;Shushufindi;2104;21
+210451;Limoncocha;2104;21
+210455;Siete De Julio;2104;21
+210551;El Playon De San Francis;2105;21
+210650;El Dorado De Cascales;2106;21
+210651;Santa Rosa De Sucumb\\355os;2106;21
+210652;Sevilla;2106;21
+210750;Tarapoa;2107;21
+220150;Puerto Francisco De Orellana;2201;22
+220152;Taracoa;2201;22
+220154;El Dorado;2201;22
+220155;El Eden;2201;22
+220156;Garcia Moreno;2201;22
+220157;Ines Arango;2201;22
+220158;La Belleza;2201;22
+220159;Nuevo Paraiso;2201;22
+220160;San Jose De  Guayuza;2201;22
+220161;San Luis De Armenia;2201;22
+220250;Nuevo Rocafuerte;2202;22
+220253;Santa Maria De Huiririma;2202;22
+220350;La Joya De Los Sachas;2203;22
+220352;Pompeya;2203;22
+220353;San Carlos;2203;22
+220355;Lago San Pedro;2203;22
+220356;Rumipamba;2203;22
+220357;Tres De Noviembre;2203;22
+220450;Loreto;2204;22
+220453;San Jose De Payamino;2204;22
+220454;San Jose De Dahuano;2204;22
+220455;San Vicente De Huaticocha;2204;22
+230150;Santo Domingo De Los Colorados;2301;23
+230151;Alluriquin;2301;23
+230152;Puerto Limon;2301;23
+230153;Luz De America;2301;23
+230154;San Jacinto Del Bua;2301;23
+230155;Valle Hermoso;2301;23
+230156;El Esfuerzo;2301;23
+230157;Santa Maria Del Toachi;2301;23
+240150;Santa Elena;2401;24
+240152;Colonche;2401;24
+240153;Chanduy;2401;24
+240154;Manglaralto;2401;24
+240156;San Jose De Ancon;2401;24
+240250;La Libertad;2402;24
+240350;Salinas;2403;24
+240351;Anconcito;2403;24
+240352;Jose Luis Tamayo;2403;24
